@@ -75,12 +75,3 @@ class Tracker:
         return 0
         
 
-#simple commment
-
-#simple commment
-#simple commment
-
-
-#simple commment
-#simple commment
-#simple commment
