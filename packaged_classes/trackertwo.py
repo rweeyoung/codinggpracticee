@@ -1,5 +1,6 @@
 import csv
-
+#simple comment
+#simple comment
 
 class Trackertwo:
     def __init__(self, name):
@@ -70,7 +71,5 @@ class Trackertwo:
         return 0
         
 
-#simple comment
-#simple comment
-#simple comment
+
 
