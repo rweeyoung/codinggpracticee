@@ -10,8 +10,6 @@ second_input = None
 
 
 
-
-
 while True:
     first_input = input("press 1 to make new tracker, press 2 to access existing tracker, press 3 to exit")
     try:
@@ -47,6 +45,7 @@ print("program finished running ")
 #simple comment
 #simple comment
 #simple comment
+
 
 
 
