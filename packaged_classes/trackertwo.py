@@ -71,7 +71,3 @@ class Trackertwo:
         
 
 
-
-
-#simple commment
-#simple commment

@@ -74,6 +74,3 @@ class Tracker:
                         break 
         return 0
         
-
-#simple commment
-#simple commment
